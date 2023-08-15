@@ -59,3 +59,21 @@ rtp://239.1.2.23:8112
 
 #EXTINF:0,[85] Global TV
 rtp://239.1.2.13:8052
+
+#EXTINF:0,[102] CNN Indonesia
+rtp://@239.1.1.241:9362
+
+#EXTINF:0, [304] Nickelodeon
+rtp://@239.1.1.41:8220
+
+#EXTINF:0,[305] Nick Junior
+rtp://@239.1.1.159:8928
+
+#EXTINF:0,[910] Net TV HD
+rtp://@239.1.1.158:8922
+
+#EXTINF:0,[958] KBS World HD
+rtp://@239.1.1.13:8052
+
+#EXTINF:0,[998] Fox Movie HD
+rtp://@239.1.1.211:9240
